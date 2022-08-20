@@ -1,0 +1,15 @@
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\bin\Debug\net6.0\epoch2date.exe
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\bin\Debug\net6.0\epoch2date.deps.json
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\bin\Debug\net6.0\epoch2date.runtimeconfig.json
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\bin\Debug\net6.0\epoch2date.dll
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\bin\Debug\net6.0\epoch2date.pdb
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\epoch2date.csproj.AssemblyReference.cache
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\epoch2date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\epoch2date.AssemblyInfoInputs.cache
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\epoch2date.AssemblyInfo.cs
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\epoch2date.csproj.CoreCompileInputs.cache
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\epoch2date.dll
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\refint\epoch2date.dll
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\epoch2date.pdb
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\epoch2date.genruntimeconfig.cache
+C:\Users\tekish\Desktop\warez\snippets\c#\epoch2date\obj\Debug\net6.0\ref\epoch2date.dll
